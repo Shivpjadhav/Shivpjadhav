@@ -62,14 +62,37 @@
 
 ## 🌿 Featured Projects
 
-| Project | Description |
-|-------|------------|
-| 💼 **Job Portal** | Naukri-style platform with advanced filtering |
-| 🏨 **Hotel Management System** | Full-stack system with real-time booking |
-| 🏢 **Office Management System** | Comprehensive workplace coordination |
-| 🌐 **Import–Export Platform** | Logistics and trade management solution |
-| 📱 **Campaign Platform** | Social media campaign management web app |
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 1000px; margin: 0 auto;">
+    
+    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 12px; width: 300px; color: white;">
+      <h4>💼 Job Portal</h4>
+      <p style="font-size: 14px;">Naukri-style platform with advanced filtering</p>
+    </div>
+    
+    <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 12px; width: 300px; color: white;">
+      <h4>🏨 Hotel Management</h4>
+      <p style="font-size: 14px;">Full-stack system with real-time booking</p>
+    </div>
+    
+    <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 12px; width: 300px; color: white;">
+      <h4>🏢 Office Management</h4>
+      <p style="font-size: 14px;">Comprehensive workplace coordination system</p>
+    </div>
+    
+    <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 20px; border-radius: 12px; width: 300px; color: white;">
+      <h4>🌐 Import-Export Platform</h4>
+      <p style="font-size: 14px;">Logistics and trade management solution</p>
+    </div>
+    
+    <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 12px; width: 300px; color: white;">
+      <h4>📱 Campaign Platform</h4>
+      <p style="font-size: 14px;">Social media campaign management web app</p>
+    </div>
+  </div>
+</div>
 
+---
 
 ## 📈 GitHub Canvas
 
