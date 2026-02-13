@@ -6,7 +6,6 @@
 </div>
 <h1 align="center">Shivani Jadhav</h1>
 <h3 align="center" style="color: #718096; font-weight: 300;">Web Developer & DevOps Engineer</h3>
-
 <div align="center">
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="80%" />
 </div>
