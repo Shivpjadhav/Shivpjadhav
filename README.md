@@ -24,7 +24,7 @@
 ---
 
 ## 🌸 About Me
-<div align="center">
+<div align="center"> 
   <p style="font-size: 18px; color: #4A5568; max-width: 800px; margin: 0 auto;">
     A passionate developer focused on creating elegant backend solutions and efficient DevOps pipelines. 
     I enjoy building systems that are both beautiful in architecture and reliable in production.
