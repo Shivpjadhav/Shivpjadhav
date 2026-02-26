@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=4A5568&center=true&vCenter=true&width=800&lines=Hello+there+I'm+Shivani+Jadhav;Welcome+to+my+digital+garden" />  
-</p> 
+</p>
 <div align="center"> 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 </div>
