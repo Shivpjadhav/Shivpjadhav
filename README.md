@@ -8,7 +8,7 @@
 <h3 align="center" style="color: #718096; font-weight: 300;">Web Developer & DevOps Engineer</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="80%" />
-</div> 
+</div>  
 <div align="center" style="margin: 30px 0;">
   <a href="https://github.com/Shivpjadhav" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
