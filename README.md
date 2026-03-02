@@ -62,7 +62,7 @@
 |--------|-------------|
 | 💼 **Job Portal** | Naukri-style platform with advanced filtering |
 | 🏨 **Hotel Management System** | Full-stack system with real-time booking |
-| 🏢 **Office Management System** | Comprehensive workplace coordination system |
+| 🏢 **Office Management System** | Comprehensive workplace coordination system | 
 | 🌐 **Import–Export Platform** | Logistics and trade management solution |
 | 📱 **Campaign Platform** | Social media campaign management web app |
 
