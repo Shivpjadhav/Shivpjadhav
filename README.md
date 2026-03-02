@@ -32,7 +32,7 @@
 </div>
 
 ---
-
+ 
 ## 🎨 Tech Palette
 
 <div align="center">
