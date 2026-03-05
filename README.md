@@ -3,7 +3,7 @@
 </p>
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
-</div>
+</div> 
 <h1 align="center">Shivani Jadhav</h1> 
 <h3 align="center" style="color: #718096; font-weight: 300;">Web Developer & DevOps Engineer</h3>
 <div align="center"> 
