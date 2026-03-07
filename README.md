@@ -1,106 +1,162 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=4A5568&center=true&vCenter=true&width=800&lines=Hello+there+I'm+Shivani+Jadhav;Welcome+to+my+digital+garden" />   
-</p>
-<div align="center"> 
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
-</div> 
-<h1 align="center">Shivani Jadhav</h1> 
-<h3 align="center" style="color: #718096; font-weight: 300;">Web Developer & DevOps Engineer</h3>
 <div align="center">
-  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="80%" />
-</div>  
-<div align="center" style="margin: 30px 0;">
-  <a href="https://github.com/Shivpjadhav" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2D3748&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivani+Jadhav;Web+Developer+%26+DevOps+Engineer;Building+scalable+%26+elegant+solutions" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" height="120" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Shivpjadhav">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/shivani-jadhav-8b4b67251" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/shivani-jadhav-8b4b67251">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:jadhavshivani332@gmail.com" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:jadhavshivani332@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
----
-
-## 🌸 About Me
-<div align="center"> 
-  <p style="font-size: 18px; color: #4A5568; max-width: 800px; margin: 0 auto;">
-    A passionate developer focused on creating elegant backend solutions and efficient DevOps pipelines. 
-    I enjoy building systems that are both beautiful in architecture and reliable in production.
-  </p>
-</div>
-
----
- 
-## 🎨 Tech Palette
+<br/>
+<br/>
 
 <div align="center">
-  <table style="border: none; margin: 30px auto;">
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="800" style="border-radius: 8px;" />
+</div>
+
+## 👩‍💻 Professional Overview
+
+> *Passionate about crafting robust backend architectures and implementing efficient DevOps practices. I transform complex requirements into scalable, reliable systems that perform flawlessly in production environments.*
+
+<br/>
+
+## 🛠️ Technical Expertise
+
+<div align="center">
+  
+| Domain | Technologies |
+|--------|-------------|
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+</div>
+
+<br/>
+
+## 📌 Featured Projects
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th width="200">Project</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>💼 Job Portal Platform</b></td>
+        <td>Naukri-style platform with advanced job filtering, resume parsing, and application tracking system</td>
+      </tr>
+      <tr>
+        <td><b>🏨 Hotel Management System</b></td>
+        <td>Full-stack solution featuring real-time room availability, online booking, and payment integration</td>
+      </tr>
+      <tr>
+        <td><b>🏢 Office Management Suite</b></td>
+        <td>Comprehensive workplace coordination system with employee management, task tracking, and resource allocation</td>
+      </tr>
+      <tr>
+        <td><b>🌐 Import-Export Platform</b></td>
+        <td>End-to-end logistics and trade management solution with shipment tracking and customs documentation</td>
+      </tr>
+      <tr>
+        <td><b>📱 Campaign Management</b></td>
+        <td>Social media campaign orchestration web app with analytics dashboard and content scheduling</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivpjadhav&show_icons=true&theme=graywhite&hide_border=true&count_private=true&include_all_commits=true&bg_color=ffffff00&text_color=4A5568&title_color=1A202C&icon_color=4299E1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivpjadhav&layout=compact&theme=graywhite&hide_border=true&bg_color=ffffff00&text_color=4A5568&title_color=1A202C" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivpjadhav&theme=graywhite&hide_border=true&background=ffffff00&stroke=4A5568&ring=4299E1&fire=DD6B20&currStreakNum=1A202C&sideNums=4A5568&currStreakLabel=4299E1&sideLabels=718096&dates=718096" />
+</div>
+
+<br/>
+
+## 🎯 Current Focus
+
+<div align="center">
+  <table style="background: #F8FAFC; border-radius: 12px; padding: 20px; width: 80%;">
     <tr>
-      <td align="center" width="33%">
-        <h4>Frontend</h4>
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+      <td align="center">
+        <b>🔷 Advanced DevOps Automation</b><br/>
+        <span style="color: #718096;">Building CI/CD pipelines & Infrastructure as Code</span>
       </td>
-      <td align="center" width="33%">
-        <h4>Backend</h4>
-        <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,mongodb" />
+      <td align="center">
+        <b>🔷 Cloud-Native Architectures</b><br/>
+        <span style="color: #718096;">Designing scalable microservices on AWS/Azure</span>
       </td>
-      <td align="center" width="33%">
-        <h4>DevOps</h4>
-        <img src="https://skillicons.dev/icons?i=aws,azure,terraform,linux,git,docker" />
+    </tr>
+    <tr>
+      <td align="center">
+        <b>🔷 Infrastructure as Code</b><br/>
+        <span style="color: #718096;">Mastering Terraform & CloudFormation</span>
+      </td>
+      <td align="center">
+        <b>🔷 System Design Patterns</b><br/>
+        <span style="color: #718096;">Implementing resilient distributed systems</span>
       </td>
     </tr>
   </table>
 </div>
 
----
+<br/>
 
-## 🌿 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 💼 **Job Portal** | Naukri-style platform with advanced filtering |
-| 🏨 **Hotel Management System** | Full-stack system with real-time booking |
-| 🏢 **Office Management System** | Comprehensive workplace coordination system | 
-| 🌐 **Import–Export Platform** | Logistics and trade management solution |
-| 📱 **Campaign Platform** | Social media campaign management web app |
-
-
----
-
-## 📈 GitHub Canvas
+## 🌐 Connect & Collaborate
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shivpjadhav&show_icons=true&theme=vue&hide_border=true&bg_color=ffffff00&text_color=4A5568&title_color=2D3748" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivpjadhav&layout=compact&theme=vue&hide_border=true&bg_color=ffffff00&text_color=4A5568&title_color=2D3748" />
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivpjadhav&theme=vue&hide_border=true&background=ffffff00&stroke=4A5568&ring=4299E1&fire=ED8936&currStreakNum=2D3748&sideNums=4A5568&currStreakLabel=4299E1&sideLabels=718096&dates=718096" />
-</div>
-
----
-
-## 🌟 Currently Exploring
-
-<div align="center">
-  <div style="display: inline-block; text-align: left; background: #F7FAFC; padding: 20px; border-radius: 12px; margin: 20px;">
-    <p>✨ Advanced DevOps workflows & automation</p>
-    <p>✨ Infrastructure as Code with Terraform</p>
-    <p>✨ Scalable cloud-native architectures</p>
-    <p>✨ Microservices design patterns</p>
+  <p style="font-size: 16px; color: #4A5568; margin-bottom: 20px;">
+    I'm always interested in discussing new technologies, collaborating on innovative projects, 
+    or exploring opportunities in web development and DevOps engineering.
+  </p>
+  
+  <div style="margin: 30px 0;">
+    <a href="https://github.com/Shivpjadhav">
+      <img src="https://img.shields.io/badge/Explore_My_Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/shivani-jadhav-8b4b67251">
+      <img src="https://img.shields.io/badge/Connect_On_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:jadhavshivani332@gmail.com">
+      <img src="https://img.shields.io/badge/Send_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
   </div>
 </div>
 
----
+<br/>
 
-<div align="center" style="margin-top: 40px;">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" />
 </div>
 
-<p align="center" style="color: #718096; font-size: 14px; margin-top: 20px;">
-  Thank you for visiting my space.<br>
-  Let's create something beautiful together.
-</p>
+<br/>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=30" />
+  
+  <sub>✨ *Crafting elegant code for a scalable future* ✨</sub>
+</div>
