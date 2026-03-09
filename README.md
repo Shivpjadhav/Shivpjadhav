@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Open Source Enthusiast | Outreachy Applicant</h3>
 
 ---
-
+ 
 ## 👩‍💻 About Me
 
 - 💻 Backend Developer passionate about building scalable web applications  
