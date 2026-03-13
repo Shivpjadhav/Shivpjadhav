@@ -3,7 +3,7 @@
 
 ---
  
-## 👩‍💻 About Me 
+## 👩‍💻 About Me
 
 - 💻 Backend Developer passionate about building scalable web applications  
 - 🌱 Currently learning **Python, AI, and Open Source Development**  
