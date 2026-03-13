@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivani Jadhav</h1>   
+<h1 align="center">Hi 👋, I'm Shivani Jadhav</h1>
 <h3 align="center">Backend Developer | Open Source Enthusiast | Outreachy Applicant</h3>
  
 ---
