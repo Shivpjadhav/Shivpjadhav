@@ -1,86 +1,94 @@
 <h1 align="center">Hi 👋, I'm Shivani Jadhav</h1>
-<h3 align="center">Backend Developer | Open Source Enthusiast | Outreachy Applicant</h3>
+<h3 align="center">Backend Developer | Open Source Contributor | Outreachy Applicant</h3>
 
 ---
- 
+
 ## 👩‍💻 About Me
 
-- 💻 Backend Developer passionate about building scalable web applications  
+- 💻 Backend Developer with experience in building scalable web applications  
 - 🌱 Currently learning **Python, AI, and Open Source Development**  
-- 🚀 Contributing to open source projects for the Outreachy internship  
-- 🧠 Interested in **Backend Systems, APIs, and AI tools**
+- 🚀 Actively contributing to **Open Source Projects** for the Outreachy Internship  
+- 🧠 Interested in **Backend Systems, APIs, and AI-powered tools**  
+- 💡 Passionate about learning new technologies and solving real-world problems  
 
 ---
 
-## 🛠️ Tech Stack 
+## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Languages
+- PHP
+- JavaScript
+- Python
+- SQL
 
-- PHP  
-- JavaScript  
-- Python  
-- SQL  
+### ⚙️ Frameworks & Libraries
+- CodeIgniter
+- React
 
-**Frameworks**
-
-- CodeIgniter  
-- React  
-
-**Tools**
-
-- Git  
-- GitHub  
-- MySQL  
-- VS Code  
+### 🧰 Tools & Technologies
+- Git
+- GitHub
+- MySQL
+- VS Code
+- REST APIs
 
 ---
 
 ## 🚀 Projects
 
-### HRMS System
-Employee management system with authentication and dashboard.
+### 🔹 HRMS System
+Employee Management System with authentication and dashboard.
 
-**Tech Stack:** PHP, MySQL, JavaScript
+**Tech Stack:** PHP, MySQL, JavaScript  
 
-Features:
-- User authentication
-- Role management
-- Dashboard analytics
+**Features**
+- User authentication system  
+- Role-based access control  
+- Dashboard analytics for employee management  
 
 ---
 
-### NBA Data Analysis Project
-Natural language to SQL query system using AI.
+### 🔹 NBA Data Analysis Project
+AI-powered system that converts **natural language queries into SQL queries**.
 
-**Tech Stack:** Python, MySQL, LLM
+**Tech Stack:** Python, MySQL, LLM  
 
-Features:
-- Query NBA data using natural language
-- AI powered analysis
-- API integration
+**Features**
+- Query NBA data using natural language  
+- AI-powered data analysis  
+- API integration for data processing  
 
 ---
 
 ## 🌍 Open Source Contributions
 
-Currently contributing to open source communities as part of my journey toward **Outreachy Internship**.
+I am actively contributing to open source projects as part of my journey toward the **Outreachy Internship**.
 
-Contributions include:
-- Bug fixes
-- Documentation improvements
-- Feature enhancements
+My contributions include:
+
+- 🐛 Bug fixes  
+- 📝 Documentation improvements  
+- ✨ Feature enhancements  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOURPROFILE  
-- Email: your-email@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/YOURPROFILE  
+- 📧 Email: your-email@gmail.com  
+
+---
+
+⭐ *Thanks for visiting my profile! I'm always open to collaboration and learning opportunities.*
