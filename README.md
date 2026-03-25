@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=200&section=header&text=Shivani%20Jadhav&fontSize=60&fontAlignY=35&desc=Backend%20Developer%20|%20MERN%20Stack%20Developer%20|%20Open%20Source%20Contributor&descAlignY=55&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Shivani+Jadhav;Backend+Developer;MERN+Stack+Developer;Open+Source+Contributor" />
-</div>
+</div> -->
 
 <br/>
 
