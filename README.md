@@ -2,7 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=200&section=header&text=Shivani%20Jadhav&fontSize=60&fontAlignY=35&desc=Backend%20Developer%20|%20MERN%20Stack%20Developer%20|%20Open%20Source%20Contributor&descAlignY=55&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
 
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivani+Jadhav;Backend+Developer;Open+Source+Contributor;Outreachy+Applicant" alt="Typing SVG" /> </div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Shivani+Jadhav;Backend+Developer;MERN+Stack+Developer;Open+Source+Contributor" />
+</div>
 
 <br/>
 
@@ -29,172 +31,25 @@ I'm a passionate **Backend-focused Full Stack Developer** with hands-on experien
 
 ---
 
-<!-- Add this entire block to your README.md -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> Tech Stack
+
 <div align="center">
-  <style>
-    /* Glow animation for badges */
-    @keyframes glow {
-      0% { 
-        opacity: 0.7; 
-        transform: scale(1);
-        filter: drop-shadow(0 0 0px rgba(106, 90, 205, 0));
-      }
-      50% { 
-        opacity: 1; 
-        transform: scale(1.05);
-        filter: drop-shadow(0 0 8px rgba(106, 90, 205, 0.6));
-      }
-      100% { 
-        opacity: 0.7; 
-        transform: scale(1);
-        filter: drop-shadow(0 0 0px rgba(106, 90, 205, 0));
-      }
-    }
-    
-    /* Float animation for icons */
-    @keyframes float {
-      0% { 
-        transform: translateY(0px);
-      }
-      50% { 
-        transform: translateY(-8px);
-      }
-      100% { 
-        transform: translateY(0px);
-      }
-    }
-    
-    /* Apply animations to elements */
-    .tech-badge {
-      animation: glow 2s ease-in-out infinite;
-      display: inline-block;
-      margin: 5px;
-    }
-    
-    .floating-icon {
-      animation: float 3s ease-in-out infinite;
-      display: inline-block;
-      margin: 5px;
-    }
-    
-    /* Different delays for staggered animations */
-    .tech-badge:nth-child(1) { animation-delay: 0s; }
-    .tech-badge:nth-child(2) { animation-delay: 0.2s; }
-    .tech-badge:nth-child(3) { animation-delay: 0.4s; }
-    .tech-badge:nth-child(4) { animation-delay: 0.6s; }
-    
-    .floating-icon:nth-child(1) { animation-delay: 0s; }
-    .floating-icon:nth-child(2) { animation-delay: 0.3s; }
-    .floating-icon:nth-child(3) { animation-delay: 0.6s; }
-    .floating-icon:nth-child(4) { animation-delay: 0.9s; }
-    .floating-icon:nth-child(5) { animation-delay: 1.2s; }
-  </style>
+  <h3>🚀 The Core Arsenal</h3>
+  <img src="https://skillicons.dev/icons?i=php,javascript,typescript,python,react,nodejs,express,mongodb,mysql,docker,aws,git" />
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Tech Stack
+<br>
 
 <div align="center">
-  <br>
-  
-  ### 🚀 The Core Arsenal
-  
-  <!-- Skill Icons - These will be static but visually appealing -->
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,javascript,typescript,python,react,nodejs,express,mongodb,mysql,docker,aws,git&perline=6" />
-  </div>
-  
-  <br>
-  
-  <!-- Animated Separator -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=200&lines=━━━━━━━━━━━━━━━━━━━━━━━━━" />
-  
-  <br>
-  
-  ### ⚡ Frameworks & Libraries
-  
-  <!-- Animated Badges with Glow Effect -->
-  <div align="center">
-    <div class="tech-badge">
-      <img src="https://img.shields.io/badge/CodeIgniter-EE4323?style=for-the-badge&logo=codeigniter&logoColor=white" />
-    </div>
-    <div class="tech-badge">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    </div>
-    <div class="tech-badge">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    </div>
-    <div class="tech-badge">
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    </div>
-  </div>
-  
-  <br>
-  
-  <!-- Progress Indicators -->
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=6A5ACD&center=true&vCenter=true&width=435&lines=PHP+████████░░+80%;JavaScript+█████████░+85%;TypeScript+███████░░░+70%;Python+██████░░░░+65%" />
-  </div>
-  
-  <br>
-  
-  <!-- Animated Separator -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=200&lines=━━━━━━━━━━━━━━━━━━━━━━━━━" />
-  
-  <br>
-  
-  ### 🗄️ Databases & Tools
-  
-  <!-- Animated Floating Icons -->
-  <div align="center">
-    <div class="floating-icon">
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    </div>
-    <div class="floating-icon">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    </div>
-    <div class="floating-icon">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    </div>
-    <div class="floating-icon">
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    </div>
-    <div class="floating-icon">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    </div>
-  </div>
-  
-  <br>
-  
-  <!-- Stats Table -->
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000000&color=6A5ACD&center=true&vCenter=true&width=120&lines=📊+10%2B" />
-          <br>
-          <b>Projects Completed</b>
-        </td>
-        <td align="center">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000000&color=6A5ACD&center=true&vCenter=true&width=120&lines=🚀+50%2B" />
-          <br>
-          <b>APIs Developed</b>
-        </td>
-        <td align="center">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000000&color=6A5ACD&center=true&vCenter=true&width=120&lines=💡+100%2B" />
-          <br>
-          <b>Contributions</b>
-        </td>
-      </tr>
-    </table>
-  </div>
-  
-  <br>
-  
-  <!-- Typewriter Status -->
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=6A5ACD&center=true&vCenter=true&width=500&lines=⚡+Currently+Mastering+System+Design;🚀+Building+Scalable+Backend+Architecture;💻+Writing+Clean+%26+Efficient+Code;🌟+Open+Source+Enthusiast" />
-  </div>
-  
+  <h3>⚡ Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=codeigniter,react,nodejs,express" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🗄️ Databases & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,git" />
 </div>
 
 <br>
