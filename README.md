@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=200&section=header&text=Shivani%20Jadhav&fontSize=60&fontAlignY=35&desc=Backend%20Developer%20|%20MERN%20Stack%20Developer%20|%20Open%20Source%20Contributor&descAlignY=55&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=200&section=header&text=Shivani%20Jadhav&fontSize=60&fontAlignY=35&desc=Backend%20Developer%20|%20MERN%20Stack%20Developer%20|%20Open%20Source%20Contributor&descAlignY=55&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Shivani+Jadhav;Backend+Developer;MERN+Stack+Developer;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=500&color=6A5ACD&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Shivani+Jadhav;Backend+Developer;MERN+Stack+Developer;Open+Source+Contributor" />
 </div>
 
 <br/>
@@ -41,95 +41,55 @@ I'm a passionate **Backend-focused Full Stack Developer** with hands-on experien
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP"/><br/><b>PHP</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="48" height="48" alt="CodeIgniter"/><br/><b>CodeIgniter 4</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br/><b>JavaScript</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/><br/><b>TypeScript</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/><br/><b>Node.js</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js"/><br/><b>Express.js</b>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/><br/><b>React</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/><br/><b>MongoDB</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/><br/><b>MySQL</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br/><b>Python</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/><br/><b>Docker</b>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS"/><br/><b>AWS</b>
-      </td>
-    </tr>
-  </table>
+  <h3>⚡ Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=codeigniter,react,nodejs,express" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🗄️ Databases & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,aws,git" />
 </div>
 
 <br>
 
 ---
 
-## 🚀 My Projects
+## 🚀 Featured Projects
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <h3 align="center">🏥 Healthcare Platform (Freedoctor.world)</h3>
+      <td width="50%" valign="top">
+        <h3 align="center">🏥 Healthcare Platform</h3>
         <div align="center">
-          <img src="https://via.placeholder.com/400x200?text=Healthcare+API" alt="Healthcare Platform" width="100%"/>
-          <br>
-          <p><strong>Tech:</strong> PHP, MySQL</p>
-          <p>Developed REST APIs for doctor listing and appointment management with optimized database performance.</p>
+          <p><strong>Freedoctor.world</strong></p>
+          <p>Developed REST APIs for doctor listing and appointment management with optimized database performance and data validation.</p>
+          <p><strong>Tech Stack:</strong> PHP, MySQL, REST API</p>
         </div>
       </td>
-      <td width="50%">
+      <td width="50%" valign="top">
         <h3 align="center">📋 Consultancy Management System</h3>
         <div align="center">
-          <img src="https://via.placeholder.com/400x200?text=Management+System" alt="Consultancy Management System" width="100%"/>
-          <br>
-          <p><strong>Tech:</strong> CodeIgniter 4, MySQL</p>
-          <p>Built backend modules for job posting, user management, authentication, and role-based access.</p>
+          <p>Built comprehensive backend modules for job posting, user management with authentication and role-based access control.</p>
+          <p><strong>Tech Stack:</strong> CodeIgniter 4, MySQL, PHP</p>
         </div>
       </td>
     </tr>
     <tr>
-      <td width="50%">
+      <td width="50%" valign="top">
         <h3 align="center">🏨 Hotel Management System</h3>
         <div align="center">
-          <img src="https://via.placeholder.com/400x200?text=Hotel+Booking" alt="Hotel Management System" width="100%"/>
-          <br>
-          <p><strong>Tech:</strong> PHP, MySQL, JavaScript</p>
-          <p>Developed a full-stack booking system with an admin dashboard and integrated frontend-backend.</p>
+          <p>Full-stack booking system featuring admin dashboard, room management, and integrated frontend-backend functionality.</p>
+          <p><strong>Tech Stack:</strong> PHP, MySQL, JavaScript, Bootstrap</p>
         </div>
       </td>
-      <td width="50%">
+      <td width="50%" valign="top">
         <h3 align="center">🏀 NBA Data Analysis (AI Project)</h3>
         <div align="center">
-          <img src="https://via.placeholder.com/400x200?text=NBA+AI+Project" alt="NBA Data Analysis" width="100%"/>
-          <br>
-          <p><strong>Tech:</strong> Python, MySQL</p>
-          <p>Built a system converting natural language to SQL queries, integrating APIs and database logic.</p>
+          <p>Intelligent system converting natural language queries to SQL, integrating external APIs with database logic for sports analytics.</p>
+          <p><strong>Tech Stack:</strong> Python, MySQL, Natural Language Processing</p>
         </div>
       </td>
     </tr>
@@ -143,40 +103,59 @@ I'm a passionate **Backend-focused Full Stack Developer** with hands-on experien
 ## 🌍 Open Source Journey
 
 <div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <h3>🐛 Bug Fixing</h3>
+        <p>Identifying and resolving issues to improve code quality and user experience</p>
+      </td>
+      <td width="33%" align="center">
+        <h3>📝 Documentation</h3>
+        <p>Writing clear, comprehensive docs to help other developers contribute effectively</p>
+      </td>
+      <td width="33%" align="center">
+        <h3>✨ Feature Development</h3>
+        <p>Building new features that add value to open source projects</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <br>
+  <h3>🎯 Current Focus: Outreachy Internship Preparation</h3>
+  <p>Actively contributing to open source communities while preparing for Outreachy contribution period</p>
+  <br>
+</div>
+
+<br>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivpjadhav&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD&text_color=ffffff" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivpjadhav&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6A5ACD&text_color=ffffff" height="180"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivpjadhav&theme=midnight-purple&hide_border=true&background=0D1117&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD&sideLabels=ffffff&dates=ffffff" width="70%"/>
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivpjadhav&theme=midnight_purple" width="100%"/>
 </div>
 
-<div align="center">
-  <ul style="list-style-type: none; padding: 0;">
-    <li>🐛 Fixing bugs and improving code quality</li>
-    <li>📝 Writing documentation</li>
-    <li>✨ Building new features</li>
-    <li>🎯 Preparing for <strong>Outreachy Internship</strong></li>
-  </ul>
-</div>
-
 <br>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivpjadhav&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivpjadhav&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6A5ACD" height="180"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivpjadhav&theme=midnight-purple&hide_border=true&background=0D1117&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD" width="70%"/>
-</div>
-
-<br>
-
----
-
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shivani-jadhav-8b4b67251/" target="_blank">
@@ -200,7 +179,9 @@ I'm a passionate **Backend-focused Full Stack Developer** with hands-on experien
 </div>
 
 <div align="center">
-  ⭐ Thanks for visiting! Let's build something amazing together 🚀
+  <br>
+  <strong>⭐ Thanks for visiting! Let's build something amazing together 🚀</strong>
+  <br><br>
 </div>
 
 <div align="center">
