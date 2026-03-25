@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=200&section=header&text=Shivani%20Jadhav&fontSize=60&fontAlignY=35&desc=Backend%20Developer%20|%20MERN%20Stack%20Developer%20|%20Open%20Source%20Contributor&descAlignY=55&animation=twinkling" width="100%"/>
 </div>
 
@@ -33,24 +33,57 @@ I'm a passionate **Backend-focused Full Stack Developer** with hands-on experien
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"> Tech Stack
 
-### 💻 Programming Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div align="center">
+  <h3>🚀 The Core Arsenal</h3>
+  <img src="https://skillicons.dev/icons?i=php,javascript,typescript,python,react,nodejs,express,mongodb,mysql,docker,aws,git" />
+</div>
 
-### ⚙️ Frameworks & Libraries
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE4323?style=for-the-badge&logo=codeigniter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<br>
 
-### 🗄️ Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP"/><br/><b>PHP</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="48" height="48" alt="CodeIgniter"/><br/><b>CodeIgniter 4</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br/><b>JavaScript</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript"/><br/><b>TypeScript</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js"/><br/><b>Node.js</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js"/><br/><b>Express.js</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React"/><br/><b>React</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB"/><br/><b>MongoDB</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/><br/><b>MySQL</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br/><b>Python</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/><br/><b>Docker</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS"/><br/><b>AWS</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
@@ -58,25 +91,50 @@ I'm a passionate **Backend-focused Full Stack Developer** with hands-on experien
 
 ## 🚀 My Projects
 
-### 🔹 Healthcare Platform (Freedoctor.world)
-- Developed REST APIs for doctor listing and appointment management  
-- Implemented data validation and optimized database performance  
-- **Tech:** PHP, MySQL  
-
-### 🔹 Consultancy Management System
-- Built backend modules for job posting and user management  
-- Implemented authentication & role-based access  
-- **Tech:** CodeIgniter 4, MySQL  
-
-### 🔹 Hotel Management System
-- Developed full stack booking system with admin dashboard  
-- Integrated frontend and backend systems  
-- **Tech:** PHP, MySQL, JavaScript  
-
-### 🔹 NBA Data Analysis (AI Project)
-- Built system converting natural language → SQL queries  
-- Integrated APIs and database logic  
-- **Tech:** Python, MySQL  
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏥 Healthcare Platform (Freedoctor.world)</h3>
+        <div align="center">
+          <img src="https://via.placeholder.com/400x200?text=Healthcare+API" alt="Healthcare Platform" width="100%"/>
+          <br>
+          <p><strong>Tech:</strong> PHP, MySQL</p>
+          <p>Developed REST APIs for doctor listing and appointment management with optimized database performance.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📋 Consultancy Management System</h3>
+        <div align="center">
+          <img src="https://via.placeholder.com/400x200?text=Management+System" alt="Consultancy Management System" width="100%"/>
+          <br>
+          <p><strong>Tech:</strong> CodeIgniter 4, MySQL</p>
+          <p>Built backend modules for job posting, user management, authentication, and role-based access.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🏨 Hotel Management System</h3>
+        <div align="center">
+          <img src="https://via.placeholder.com/400x200?text=Hotel+Booking" alt="Hotel Management System" width="100%"/>
+          <br>
+          <p><strong>Tech:</strong> PHP, MySQL, JavaScript</p>
+          <p>Developed a full-stack booking system with an admin dashboard and integrated frontend-backend.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🏀 NBA Data Analysis (AI Project)</h3>
+        <div align="center">
+          <img src="https://via.placeholder.com/400x200?text=NBA+AI+Project" alt="NBA Data Analysis" width="100%"/>
+          <br>
+          <p><strong>Tech:</strong> Python, MySQL</p>
+          <p>Built a system converting natural language to SQL queries, integrating APIs and database logic.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
@@ -84,10 +142,18 @@ I'm a passionate **Backend-focused Full Stack Developer** with hands-on experien
 
 ## 🌍 Open Source Journey
 
-- 🐛 Fixing bugs and improving code quality  
-- 📝 Writing documentation  
-- ✨ Building new features  
-- 🎯 Preparing for **Outreachy Internship**
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivpjadhav&theme=midnight_purple" width="100%"/>
+</div>
+
+<div align="center">
+  <ul style="list-style-type: none; padding: 0;">
+    <li>🐛 Fixing bugs and improving code quality</li>
+    <li>📝 Writing documentation</li>
+    <li>✨ Building new features</li>
+    <li>🎯 Preparing for <strong>Outreachy Internship</strong></li>
+  </ul>
+</div>
 
 <br>
 
@@ -96,8 +162,14 @@ I'm a passionate **Backend-focused Full Stack Developer** with hands-on experien
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivpjadhav&show_icons=true&theme=midnight-purple&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivpjadhav&layout=compact&theme=midnight-purple&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivpjadhav&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6A5ACD&icon_color=6A5ACD" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivpjadhav&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6A5ACD" height="180"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivpjadhav&theme=midnight-purple&hide_border=true&background=0D1117&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD" width="70%"/>
 </div>
 
 <br>
@@ -116,6 +188,9 @@ I'm a passionate **Backend-focused Full Stack Developer** with hands-on experien
   <a href="https://github.com/Shivpjadhav" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -126,4 +201,8 @@ I'm a passionate **Backend-focused Full Stack Developer** with hands-on experien
 
 <div align="center">
   ⭐ Thanks for visiting! Let's build something amazing together 🚀
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=100&section=footer" width="100%"/>
 </div>
